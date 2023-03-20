@@ -1,0 +1,22 @@
+Shift Cipher
+	Letter substitution based on determined offset
+	Capital letters become lower and lower become upper
+Keyword Cipher
+	Include Keyword 
+	Difference bettween letters in the alphabet become the offset
+	Keyword must be length of encoded message
+
+	message Hello World
+	key IIIII IIIII
+	product 1 20 4 4 6  14 6 9 4 21 (offset of key from letter then offsets from position of origional message)
+	|
+	|
+	\/ 
+	Iyppu Kuapy
+	
+	Use as an array of strings for input, then store the values for the chars in a dictionary
+
+
+Ciphers to Master first
+The Vinenere Cipher
+Enigma Cipher

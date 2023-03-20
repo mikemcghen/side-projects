@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+ruKV4ZG5WyyuU0aRhmdf7PiExAQ+3emzP2cYtTQ85V/e4AWbO3YZeXjhFQWV0IuzY5ouGmCaT73jOeGNihgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\Passion Projects\\cipher-project\\cipher-passion-project\\cipher-passion-project\\cipher-passion-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}

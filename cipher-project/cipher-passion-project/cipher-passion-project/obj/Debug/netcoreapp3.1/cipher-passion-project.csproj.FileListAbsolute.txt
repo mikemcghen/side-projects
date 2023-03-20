@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.AssemblyInfo.cs
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\bin\Debug\netcoreapp3.1\cipher-passion-project.exe
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\bin\Debug\netcoreapp3.1\cipher-passion-project.deps.json
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\bin\Debug\netcoreapp3.1\cipher-passion-project.runtimeconfig.json
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\bin\Debug\netcoreapp3.1\cipher-passion-project.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\bin\Debug\netcoreapp3.1\cipher-passion-project.dll
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\bin\Debug\netcoreapp3.1\cipher-passion-project.pdb
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.dll
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.pdb
+C:\Users\Student\Desktop\Passion Projects\cipher-project\cipher-passion-project\cipher-passion-project\obj\Debug\netcoreapp3.1\cipher-passion-project.genruntimeconfig.cache
