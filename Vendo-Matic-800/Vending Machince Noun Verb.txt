@@ -1,0 +1,45 @@
+Nouns:
+Vending Machine
+
+Product (Name)
+	
+	Code
+		Location
+		Price
+		Inventory
+			Chip
+			Candy
+			Drink
+			Gum
+Customer
+	Money
+	Current Money
+	Bank Account
+
+Sales Report
+
+Verbs:
+
+Vending Machine
+	Display
+	Select
+	Dispensed w/ returned message
+	Finshed
+	Log (log.txt)
+
+Product
+	Sold (out)
+	Stocked (Max 5)
+
+Money
+	Deposit (Feed)
+	Purchase (Withdraw)
+	Update Balance
+
+
+
+
+
+
+UNIT TESTS
+

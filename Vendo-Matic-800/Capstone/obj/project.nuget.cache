@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSycWmmF2Dk+ILvk9PoAT4F5oGdVZDJ2oWYJa6yOqSvKY2LwOtq7SzUOX/LNRQx/VkpKRIpvkTqN6bIZf8EeGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\side-projects\\cipher-project\\cipher-passion-project\\Vendo-Matic-800\\Capstone\\Capstone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
