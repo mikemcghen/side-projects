@@ -1,0 +1,17 @@
+Beginner
+News Getter
+	Get local news from the day prior using an api with the ability to add articles to a database
+
+Tax Calculator
+	Using a database store information on peoples taxes and other info
+
+Intermediate
+Cipher encriptor and decryptor
+	Ability to encrypt a messege using common ciphers as well as running a spell checker against decription and finding the most translated when running decription
+
+Advanced
+Alexa Skills
+
+Vector SDK
+
+Automate Kurig

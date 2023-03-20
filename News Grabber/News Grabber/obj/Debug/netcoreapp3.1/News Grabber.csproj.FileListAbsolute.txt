@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.AssemblyInfo.cs
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\News Grabber.exe
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\News Grabber.deps.json
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\News Grabber.runtimeconfig.json
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\News Grabber.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\News Grabber.dll
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\News Grabber.pdb
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\NewsAPI.dll
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.csproj.CopyComplete
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.dll
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.pdb
+C:\Users\Student\Desktop\Passion Projects\cipher-project\News Grabber\News Grabber\obj\Debug\netcoreapp3.1\News Grabber.genruntimeconfig.cache
